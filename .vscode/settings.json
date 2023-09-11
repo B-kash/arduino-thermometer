@@ -1,0 +1,8 @@
+{
+  "go.toolsEnvVars": {
+    "GOOS": "linux",
+    "GOARCH": "arm",
+    "GOROOT": "C:\\Users\\theyc\\AppData\\Local\\tinygo\\goroot-ae0ece77e557c994592ec921b071a5ddf93ce0cfa7540ad4f970df5970057ce7",
+    "GOFLAGS": "-tags=cortexm,baremetal,linux,arm,atsamd21g18a,atsamd21g18,atsamd21,sam,arduino_nano33,tinygo,math_big_pure_go,gc.conservative,scheduler.tasks,serial.usb"
+  }
+}
